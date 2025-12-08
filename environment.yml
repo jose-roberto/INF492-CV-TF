@@ -1,0 +1,10 @@
+name: inf492-cv-tf
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pillow
+  - scikit-image
+  - scipy
+  - opencv
